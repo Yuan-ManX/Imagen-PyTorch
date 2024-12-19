@@ -1,7 +1,7 @@
 # Imagen PyTorch
 
 <p align="center">
-  <img src="Imagen.png" alt="Imagen" style="display:block; margin:auto; width:500px;" />
+  <img src="Imagen.png" alt="Imagen" style="display:block; margin:auto; width:520px;" />
 </p>
 
 PyTorch implementation of Imagen.
