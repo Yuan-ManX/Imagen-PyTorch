@@ -1,5 +1,9 @@
 # Imagen PyTorch
 
+<p align="center">
+  <img src="Imagen.png" alt="Imagen" style="display:block; margin:auto; width:550px;" />
+</p>
+
 PyTorch implementation of Imagen.
 
 [Imagen](https://arxiv.org/abs/2205.11487): Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding.
